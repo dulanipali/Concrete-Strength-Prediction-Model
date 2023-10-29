@@ -1,5 +1,7 @@
 # Concrete-Strength-Prediction-Model
-A concrete strength prediction model that takes user inputs and provides strength estimates and the uncertainty. Models used: Multiple Linear Regression​  Exponential Regression​  Polynomial Regression​
+A concrete strength prediction model that takes user inputs and provides strength estimates and the uncertainty.
+
+Models used: Multiple Linear Regression​  Exponential Regression​  Polynomial Regression​
 
 Objective(s):
 - Literature scan on concrete design, and utility of a predictive approach
